@@ -37,4 +37,4 @@ Organize the repository into categories for easier navigation.
 # Contribute:
 Contributions are welcome! If you have Python scripts, projects, or improvements to existing code, feel free to open a pull request. Let’s build a valuable resource for the Python community together!
 
-# Tags: Python, Programming, Learn Python, Jupyter Notebooks, Python Projects, Beginner to Advanced
+Tags: Python, Programming, Learn Python, Jupyter Notebooks, Python Projects, Beginner to Advanced
